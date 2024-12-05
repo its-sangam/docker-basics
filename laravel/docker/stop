@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Stop the containers gracefully
+docker-compose down

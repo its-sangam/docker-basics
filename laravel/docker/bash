@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Access the app container's shell
+docker-compose exec app bash
